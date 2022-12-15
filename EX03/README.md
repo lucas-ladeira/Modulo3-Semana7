@@ -3,6 +3,7 @@
 
 Dado o seguinte objeto, crie uma cópia dele na sua máquina e realize as operações indicadas:
 
+~~~javascript
 let objDevInHouse= {
     plataforma: "DevInHouse",
     cursos: {dados: ["SQL"],
@@ -10,6 +11,7 @@ let objDevInHouse= {
             frontend: ["Javascript", "React"]},
     inovacao_constante: true
 };
+~~~
 
 **1-** Crie um objUser com suas informaçõe spessoais de nome (primeiro nome), idade e cidade;\
 **2-** Adicione o objUser como mais um item do objDevInHouse;\
