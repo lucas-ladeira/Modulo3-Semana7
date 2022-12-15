@@ -1,6 +1,6 @@
 # Módulo 3 - Semana 7
 
-Exercícios da Semana 3 do Módulo 3 do curso **FuturoDev** ofertado pelo Senai/SC. Os exercícios estão organizados nas seguintes pastas:
+Exercícios da Semana 7 do Módulo 3 do curso **FuturoDev** ofertado pelo Senai/SC. Os exercícios estão organizados nas seguintes pastas:
 - **EX01** - Escopos
 - **EX02** - String e Number
 - **EX03** - Object
